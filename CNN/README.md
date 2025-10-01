@@ -13,6 +13,7 @@ def get_kwargs_understand_augmentations(**kwargs):
     datagen = ImageDataGenerator(
         **kwargs
     )
+    ... # other parts to apply on and show images
 ```
     
 Understand part below deeper. I will return back here after I am done with other parts. 
