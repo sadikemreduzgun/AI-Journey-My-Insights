@@ -6,6 +6,15 @@
 https://www.kaggle.com/code/sadkemredzgn/data-augmentation-insights
 ---
 
+Principle for convenience:
+```
+def get_kwargs_understand_augmentations(**kwargs):
+    # Define augmentation generator
+    datagen = ImageDataGenerator(
+        **kwargs
+    )
+```
+    
 Understand part below deeper. I will return back here after I am done with other parts. 
 ```
 get_kwargs_understand_augmentations(
