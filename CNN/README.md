@@ -1,6 +1,8 @@
 # Here are insihts on CNN. 
 <br>
 
+Create the notebook which is about transfer learning, fine-tuning, importance of data augmentation when preventing overfitting etc. again. Annoying to lose lose the notebook and making it again. 
+
 ## data augmentation insights: 
 ---
 https://www.kaggle.com/code/sadkemredzgn/data-augmentation-insights
