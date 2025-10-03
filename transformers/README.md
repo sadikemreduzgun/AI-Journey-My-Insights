@@ -1,7 +1,7 @@
 # here transformers will be mentioned and some insights again
 
 ---
-### Let's dive in weights and biases mathematically
+### Let's dive in weights and biases mathematically. All the materials below are from IBM course. Wanted to mention. 
 <img width="901" height="346" alt="Screenshot from 2025-10-03 18-00-17" src="https://github.com/user-attachments/assets/b86bc3be-9f82-456b-8eeb-15ae199eba10" />
 
 <img width="943" height="403" alt="Screenshot from 2025-10-03 18-00-31" src="https://github.com/user-attachments/assets/44beb9f8-7761-4e44-af15-b2a25b43504c" />
