@@ -1,6 +1,6 @@
 # here transformers will be mentioned and some insights again
 
-# House price prediction 10-run MSEs compared when different activation function are used:
+# House price prediction 10-run average MSEs compared when different activation function are used:
 <img width="1244" height="704" alt="Screenshot from 2025-10-05 21-13-45" src="https://github.com/user-attachments/assets/3278443c-6dfc-40eb-941e-0454d7267f30" />
 
 ---
