@@ -1,6 +1,11 @@
 # here transformers will be mentioned and some insights again
 
+# House price prediction MSEs compared when different activation function are used:
+<img width="1244" height="704" alt="Screenshot from 2025-10-05 21-13-45" src="https://github.com/user-attachments/assets/3278443c-6dfc-40eb-941e-0454d7267f30" />
+
 ---
+
+# How do basic neural networks train mathematically
 ### Let's dive in weights and biases mathematically. All the materials below are from IBM course. Wanted to mention [my lawyers told me so]. 
 ### Don't be afraid, here is just chain rule. Nothing serious. 
 
