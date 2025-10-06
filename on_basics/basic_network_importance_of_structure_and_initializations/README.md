@@ -1,3 +1,4 @@
+# In AI deep insight is required here is why:
 # Here is a basic experiment on a basic neural network with 1 neuron no hidden layer, 1 neuron in hidden layer 1 neuron in output layer, 4 neurons in hidden layer and 1 in output layer and with different weight initializations and using different activation functions(reLU[activation='relu'] and linear[activation=None]) and comparing them.
 # ❗ You will be amazed to see the results. The neural network can't even learn f(x)=x in some cases ❗❗❗
 ### I decided to understand some basic sides of Neural networks after seeing my LSTM model does really well trades when I trained once and when i train it again it sucks and the causes were discussed here. I got much deep insight here thanks to myself. In my case I was using dropout layer too but never mind it here. Here just random weight initializations and what they may cause in gradient descent were discussed. 
