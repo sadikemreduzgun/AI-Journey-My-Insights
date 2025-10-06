@@ -1,3 +1,5 @@
+# Here is a basic experiment on a basic neural network with 1 neuron no hidden layer, 1 neuron in hidden layer 1 neuron in output layer, 4 neurons in hidden layer and 1 in output layer and with different weight initializations and using different activation functions(reLU[activation='relu'] and linear[activation=None]) and comparing them.
+# ❗ You will be amazed to see the results. The neural network can't even learn f(x)=x in some cases ❗❗❗
 # my comment here:
 ### *"So some weight initializations lead to best gradiant some leads to local minima i guess"*
 # Role of weight initialization
